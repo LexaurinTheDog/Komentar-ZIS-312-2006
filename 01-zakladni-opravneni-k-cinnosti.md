@@ -81,6 +81,11 @@ Poznámka pod čarou č. 1 odkazuje na zákon č. 182/2006 Sb., o úpadku a způ
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 208/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/710ADD2807820BC1C1258A28001611E5?openDocument) — 30. 6. 2023, kat. A
+  > „Postup, jímž insolvenční správce paušálně přenese již na počátku výkonu správy majetkové podstaty dlužníka plnění všech povinností insolvenčního správce na fyzickou osobu, která by funkci insolvenčního správce jinak sama nemohla vykonávat, patří ke skutečnostem, jež odůvodňují (i) zproštění výkonu funkce insolvenčního správce podle § 32 insolvenčního zákona. Následkem porušení povinnosti vykonávat funkci insolvenčního správce zásadně osobně není neplatnost, zdánlivost nebo neúčinnost hmotněprávních jednání, která namísto insolvenčního správce (fyzické osoby) činila jím (nesprávně) zmocněná osoba, nebo která namísto ohlášeného společníka insolvenčního správce (veřejné obchodní společnosti) činil jím (nesprávně) zmocněný neohlášený společník. V souladu s ustanovením § 40 odst. 3 insolvenčního zákona a s ustanovením § 1401 odst. 2 o. z. v takovém případě platí, že insolvenční správce je…"
+
 #### Insolvenční správce — fyzická osoba (odst. 1)
 
 Insolvenčním správcem je fyzická osoba **oprávněná** vykonávat činnost insolvenčního správce. Definice je formální: rozhoduje existence oprávnění (§ 3), nikoli faktické vykonávání funkce. Oprávnění vzniká povolením nebo zvláštním povolením; po dobu pozastavení (§ 9–11) osoba status formálně neztrácí, smí však činnost vykonávat jen v mezích § 11.
@@ -186,6 +191,11 @@ Funkce správce dlužníka podle § 3 odst. 2 je citlivou činností; vyžaduje 
 > (3) Veřejné obchodní společnosti dosud nezapsané v obchodním rejstříku vzniká právo podle odstavců 1 a 2 dnem zápisu veřejné obchodní společnosti, které bylo vydáno povolení nebo zvláštní povolení, do obchodního rejstříku.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 33/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3555FB59023DF0EBC1258806004C0A32?openDocument) — 23. 2. 2022, kat. A
+  > „Podle ustanovení § 31 odst. 3 insolvenčního zákona odvolá insolvenční soud insolvenčního správce z funkce jen tehdy, dospěje-li v návaznosti na důvod, pro který došlo k zániku práva vykonávat činnost insolvenčního správce, se zřetelem ke konkrétním poměrům insolvenčního správce k závěru, že zde jsou (nebo při pravidelném chodu věcí mohou být) překážky, které insolvenčnímu správci se zaniklou činností brání (nebo mohou bránit) v řádném dokončení výkonu funkce v daném insolvenčním řízení. Skutečnost, že právo vykonávat činnost insolvenčnímu správci ze zákona zaniklo, není důvodem pro jeho odvolání z funkce podle § 31 odst. 3 insolvenčního zákona bez dalšího. Delší doba dokončení insolvenčního řízení předpokládaná v době od zániku práva vykonávat činnost insolvenčního správce sama o sobě důvodem toho, aby insolvenční správce se zaniklým oprávněním byl odvolán z funkce, není"
 
 #### Konstitutivní účinek povolení (odst. 1)
 
@@ -359,6 +369,11 @@ Návrh musí být úplný již při podání; pozor na stáří zahraničních v
 > (3) K návrhu podle odstavce 1 musí být dále připojena společenská smlouva, je-li navrhováno vydání povolení nebo zvláštního povolení veřejné obchodní společnosti dosud nezapsané v obchodním rejstříku.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 208/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/710ADD2807820BC1C1258A28001611E5?openDocument) — 30. 6. 2023, kat. A
+  > „Postup, jímž insolvenční správce paušálně přenese již na počátku výkonu správy majetkové podstaty dlužníka plnění všech povinností insolvenčního správce na fyzickou osobu, která by funkci insolvenčního správce jinak sama nemohla vykonávat, patří ke skutečnostem, jež odůvodňují (i) zproštění výkonu funkce insolvenčního správce podle § 32 insolvenčního zákona. Následkem porušení povinnosti vykonávat funkci insolvenčního správce zásadně osobně není neplatnost, zdánlivost nebo neúčinnost hmotněprávních jednání, která namísto insolvenčního správce (fyzické osoby) činila jím (nesprávně) zmocněná osoba, nebo která namísto ohlášeného společníka insolvenčního správce (veřejné obchodní společnosti) činil jím (nesprávně) zmocněný neohlášený společník. V souladu s ustanovením § 40 odst. 3 insolvenčního zákona a s ustanovením § 1401 odst. 2 o. z. v takovém případě platí, že insolvenční správce je…"
 
 #### Obsah návrhu společnosti (odst. 1)
 
@@ -730,6 +745,11 @@ Bezúhonnost je vymezena taxativně a objektivně; pozor na absolutní důvod po
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 208/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/710ADD2807820BC1C1258A28001611E5?openDocument) — 30. 6. 2023, kat. A
+  > „Postup, jímž insolvenční správce paušálně přenese již na počátku výkonu správy majetkové podstaty dlužníka plnění všech povinností insolvenčního správce na fyzickou osobu, která by funkci insolvenčního správce jinak sama nemohla vykonávat, patří ke skutečnostem, jež odůvodňují (i) zproštění výkonu funkce insolvenčního správce podle § 32 insolvenčního zákona. Následkem porušení povinnosti vykonávat funkci insolvenčního správce zásadně osobně není neplatnost, zdánlivost nebo neúčinnost hmotněprávních jednání, která namísto insolvenčního správce (fyzické osoby) činila jím (nesprávně) zmocněná osoba, nebo která namísto ohlášeného společníka insolvenčního správce (veřejné obchodní společnosti) činil jím (nesprávně) zmocněný neohlášený společník. V souladu s ustanovením § 40 odst. 3 insolvenčního zákona a s ustanovením § 1401 odst. 2 o. z. v takovém případě platí, že insolvenční správce je…"
+
 #### Podmínky povolení společnosti (odst. 1 a 2)
 
 Ministerstvo vydá povolení veřejné obchodní společnosti nebo zahraniční společnosti, která (a) má **ohlášeného společníka s povolením**, (b) jejíž ohlášený společník učinil **prohlášení výlučnosti** (§ 5 odst. 2), (c) uzavřela na svůj náklad **pojištění odpovědnosti**, (d) je **bezúhonná** (§ 7 odst. 2) a (e) má **personální a materiální vybavení** (§ 13a). Pro zvláštní povolení se vyžadují podmínky písm. b) až e) a ohlášený společník se **zvláštním povolením**. Při splnění podmínek jde o nárokové rozhodnutí.
@@ -894,6 +914,13 @@ Každá změna ohlášených společníků = nové povolení; při zániku práv
 > (2) Pozastavení práva vykonávat činnost insolvenčního správce zaniká dnem, kdy pominula okolnost, která byla důvodem k pozastavení tohoto práva.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 24/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D626ADF5C65F8F1DC1257FF8001AA3FA?openDocument) — 28. 4. 2016, kat. A
+  > „Veřejná obchodní společnost byla i před 1. srpnem 2013 oprávněna vykonávat funkci insolvenčního správce konkrétního dlužníka jen prostřednictvím svého ohlášeného společníka. Jestliže se obnovilo právo ohlášeného společníka veřejné obchodní společnosti vykonávat funkci insolvenčního správce jako fyzická osoba, je skutečnost, že veřejné obchodní společnosti, jejímž jediným ohlášeným společníkem taková fyzická osoba byla, zaniklo právo vykonávat funkci insolvenčního správce, důvodem k odvolání veřejné obchodní společnosti z funkce insolvenčního správce konkrétního dlužníka ve smyslu § 31 insolvenčního zákona. „Slyšení“ insolvenčního správce před rozhodnutím insolvenčního soudu o jeho „odvolání“ z funkce bude ve smyslu ustanovení § 31 insolvenčního zákona „pravidlem“ tam, kde se v jakékoli podobě projeví mezi procesními subjekty insolvenčního řízení „spor“ o „důležitý důvod“, jenž má k…"
+- *NS* [3 VSPH 237/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCF541BF663A259BC1257A4E00692E57?openDocument) — 1. 6. 2011, kat. A
+  > „Skutečnost, že insolvenčnímu správci byla pozastavena činnost ve smyslu ustanovení § 9 odst. 1 písm. d) zákona č. 312/2006 Sb. ve znění pozdějších předpisů není sama o sobě důvodem pro jeho odvolání z funkce ve smyslu § 31 insolvenčního zákona"
 
 #### Pozastavení ze zákona (odst. 1)
 
@@ -1091,6 +1118,13 @@ Pozastavení = zákaz výkonu, nikoli konec povinností; pojištění trvá s v�
 > (2) Právo vykonávat činnost insolvenčního správce zaniká insolvenčnímu správci také uplynutím 5 let ode dne nabytí právní moci povolení, a jde-li o insolvenčního správce dlužníka podle § 3 odst. 2, uplynutím 5 let ode dne nabytí právní moci zvláštního povolení, nebyla-li platnost příslušného povolení prodloužena postupem podle § 6 odst. 5.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 33/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3555FB59023DF0EBC1258806004C0A32?openDocument) — 23. 2. 2022, kat. A
+  > „Podle ustanovení § 31 odst. 3 insolvenčního zákona odvolá insolvenční soud insolvenčního správce z funkce jen tehdy, dospěje-li v návaznosti na důvod, pro který došlo k zániku práva vykonávat činnost insolvenčního správce, se zřetelem ke konkrétním poměrům insolvenčního správce k závěru, že zde jsou (nebo při pravidelném chodu věcí mohou být) překážky, které insolvenčnímu správci se zaniklou činností brání (nebo mohou bránit) v řádném dokončení výkonu funkce v daném insolvenčním řízení. Skutečnost, že právo vykonávat činnost insolvenčnímu správci ze zákona zaniklo, není důvodem pro jeho odvolání z funkce podle § 31 odst. 3 insolvenčního zákona bez dalšího. Delší doba dokončení insolvenčního řízení předpokládaná v době od zániku práva vykonávat činnost insolvenčního správce sama o sobě důvodem toho, aby insolvenční správce se zaniklým oprávněním byl odvolán z funkce, není"
+- *NS* [29 NSCR 24/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D626ADF5C65F8F1DC1257FF8001AA3FA?openDocument) — 28. 4. 2016, kat. A
+  > „Veřejná obchodní společnost byla i před 1. srpnem 2013 oprávněna vykonávat funkci insolvenčního správce konkrétního dlužníka jen prostřednictvím svého ohlášeného společníka. Jestliže se obnovilo právo ohlášeného společníka veřejné obchodní společnosti vykonávat funkci insolvenčního správce jako fyzická osoba, je skutečnost, že veřejné obchodní společnosti, jejímž jediným ohlášeným společníkem taková fyzická osoba byla, zaniklo právo vykonávat funkci insolvenčního správce, důvodem k odvolání veřejné obchodní společnosti z funkce insolvenčního správce konkrétního dlužníka ve smyslu § 31 insolvenčního zákona. „Slyšení“ insolvenčního správce před rozhodnutím insolvenčního soudu o jeho „odvolání“ z funkce bude ve smyslu ustanovení § 31 insolvenčního zákona „pravidlem“ tam, kde se v jakékoli podobě projeví mezi procesními subjekty insolvenčního řízení „spor“ o „důležitý důvod“, jenž má k…"
 
 #### Zánik ze zákona (odst. 1)
 
